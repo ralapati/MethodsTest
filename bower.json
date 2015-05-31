@@ -1,0 +1,24 @@
+{
+  "name": "MethodsTest",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ralapati/MethodsTest",
+  "authors": [
+    "Raghu Alapati <raghu.alapati@gmail.com>"
+  ],
+  "description": "MethodsTest sample app with MEAN Stack",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.1",
+    "angular": "~1.4.0",
+    "angular-resource": "~1.4.0"
+  }
+}

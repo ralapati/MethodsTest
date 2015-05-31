@@ -1,0 +1,23 @@
+{
+  "name": "methodstest",
+  "version": "1.0.0",
+  "description": "Methods sample implemented in MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralapati/MethodsTest.git"
+  },
+  "author": "Raghu Alapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralapati/MethodsTest/issues"
+  },
+  "homepage": "https://github.com/ralapati/MethodsTest#readme",
+  "devDependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0"
+  }
+}
