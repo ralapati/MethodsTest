@@ -4,7 +4,7 @@
 
 'use strict';
 
-angular.module('methodsTestApp', ['ngResource']);
+angular.module('methodsTestApp', ['ngRoute', 'ngResource']);
 
 angular.module('methodsTestApp').config(function ($routeProvider, $locationProvider) {
 
