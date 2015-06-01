@@ -20,5 +20,8 @@
     "toastr": "~2.1.1",
     "angular": "~1.4.0",
     "angular-resource": "~1.4.0"
+  },
+  "dependencies": {
+    "angular-route": "~1.4.0"
   }
 }
